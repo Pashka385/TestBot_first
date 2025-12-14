@@ -1,0 +1,62 @@
+{
+  "users": {
+    "5634806629": {
+      "captcha": true,
+      "last_msg": 1765632016.91039,
+      "username": "ChixPihMenager",
+      "first_name": "Менеджер ЧИХ ПЫХ",
+      "messages_sent": 1,
+      "joined": 1765632003.702013,
+      "captcha_answer": 81,
+      "captcha_question": "9 * 9",
+      "writing": true
+    },
+    "5634806629": {
+      "captcha": true,
+      "last_msg": 1765632286.310851,
+      "username": "ChixPihMenager",
+      "first_name": "Менеджер ЧИХ ПЫХ",
+      "messages_sent": 1,
+      "joined": 1765632269.6189299,
+      "captcha_answer": 18,
+      "captcha_question": "6 * 3",
+      "writing": true
+    }
+  },
+  "user_messages": {
+    "5634806629": [
+      {
+        "text": "Овововоаоаоалоакооаоколк",
+        "time": 1765632016.938299,
+        "answered": false
+      }
+    ],
+    "5634806629": [
+      {
+        "text": "Вллвлвлалулкл",
+        "time": 1765632286.3110862,
+        "answered": true
+      }
+    ]
+  },
+  "operator_stats": {
+    "1644643936": {
+      "answered": 1,
+      "response_time": []
+    },
+    "1644643936": {
+      "answered": 2,
+      "response_time": []
+    }
+  },
+  "answer_templates": {},
+  "system_settings": {
+    "auto_greet": true,
+    "notify_operators": true,
+    "max_queue_size": 100,
+    "captcha_enabled": true,
+    "work_hours_start": 12,
+    "work_hours_end": 21,
+    "work_hours_enabled": false
+  }
+}
